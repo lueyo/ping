@@ -1,0 +1,19 @@
+{
+  "servers": [
+    {
+      "url": "https://short.lueyo.es",
+      "name": "Link Shorter",
+      "description": "Acortador de links"
+    },
+    {
+      "url": "https://lueyochat.onrender.com",
+      "name": "Lueyo chat",
+      "description": "Un servicio de chat sin registro"
+    },
+    {
+      "url": "https://tk.lueyo.es",
+      "name": "Link Sharer",
+      "description": "Comparte links de tiktok a los que no tienen cuenta"
+    }
+  ]
+}
