@@ -19,6 +19,12 @@
       "url": "https://rps-server-6s7s.onrender.com",
       "name": "Piedra papel y tijera",
       "description": "Juega a piedra papel y tijera a distancia"
+    },
+    {
+      "url": "https://p.lueyo.es",
+      "name": "LueyoPaste",
+      "description": "Comparte texto entre dispositivos, compatible con curl"
     }
+
   ]
 }
