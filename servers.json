@@ -24,6 +24,11 @@
       "url": "https://p.lueyo.es",
       "name": "LueyoPaste",
       "description": "Comparte texto entre dispositivos, compatible con curl"
+    },
+    {
+      "url": "https://randomyt-server.onrender.com",
+      "name": "Unknown youtube videos",
+      "description": "Comparte los videos de youtube desconocidos que salen en recomendados"
     }
 
   ]
