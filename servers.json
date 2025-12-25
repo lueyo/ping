@@ -34,6 +34,11 @@
       "url": "https://kirk.lueyo.es",
       "name": "Kirkificador de personas que no existen",
       "description": "Kirkifica a personas que no existen con una combinación de 2 servicios web"
+    },
+      {
+      "url": "https://api.mycock.fun",
+      "name": "Api de dibujar pollas",
+      "description": "Dibuja pollas y compartelas con tus enemigos"
     }
 
   ]
